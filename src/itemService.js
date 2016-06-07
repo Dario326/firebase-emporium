@@ -13,7 +13,7 @@ angular.module('emporium')
 		  }
 
 		, items: [
-				{
+				  {
 					  name: 'rotten log'
 					, description: 'read the name dummy'
 					, price: 14.99
@@ -35,7 +35,7 @@ angular.module('emporium')
 					, inStock: true
 				}
 				, {
-					  name: 'provo dm7\'s collective tears from directive day'
+					  name: 'dm2\'s collective tears from toy problems'
 					, description: 'could solve california\'s drought'
 					, price: .99
 					, featured: false
